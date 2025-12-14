@@ -50,7 +50,7 @@
 	echo "Result of product p: ".$p."</br>";
 	
 	// task 14
-	$B = [5, 2, 2, 31, 36, 1, 21];
+	$B = [2.2 , 3.1, -3.6, 0.1, 2.1];
 	$countLess = 0;
 	for($i = 0; $i < count($B); $i++){
 		if($B[$i] < 0.99){
