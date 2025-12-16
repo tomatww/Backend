@@ -1,0 +1,6 @@
+vendor/
+node_modules/
+*.log
+*.tmp
+AppData/
+.DS_Store
